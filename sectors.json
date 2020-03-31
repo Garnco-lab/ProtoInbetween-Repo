@@ -1,7 +1,257 @@
 [
     {
+        "SectorName":"Air",
+        "Description":"Within every empty space is an opportunity for success, a chance to find out who you are in this strange unforgiving world. It's too bad you'll never see it.",
+        "Value":0
+    },
+    {
+        "SectorName":"Scrap Metal",
+        "Description":"It's a lot of small metal blocks squished together into a larger, small metal block.",
+        "Value":1
+    },
+    {
+        "SectorName":"Cinder Block",
+        "Description":"Stolen from the concrete dome the seals the harmful gas below.",
+        "Value":2
+    },
+    {
+        "SectorName":"Wire Block",
+        "Description":"Snaps, crackles, and pops. This is the type of energy that makes your chest hair tingle.",
+        "Value":3
+    },
+    {
+        "SectorName":"CHOI Block",
+        "Description":"While disgusting to look at. The goo within actually has a pleasant, albeit winter time aroma with notes of musk and cedarwood.",
+        "Value":4
+    },
+    {
+        "SectorName":"Grate Block",
+        "Description":"These are famous for being able to grind even the grittiest material into small, awful salad toppers.",
+        "Value":5
+    },
+    {
+        "SectorName":"Metal Wire",
+        "Description":"Magnetic power consumes these blocks, feel their energy as you snap and piece them back together. You don’t have to say it… feels good right.",
+        "Value":6
+    },
+    {
+        "SectorName":"Weird Dispenser",
+        "Description":"A possible torture device used on unfortunate souls unlucky enough to crank it's handles.",
+        "Value":7
+    },
+    {
+        "SectorName":"Chain Gate",
+        "Description":"There’s nothing that says gritty tech noir more than a slightly rusty chain fence stolen from the backyard.",
+        "Value":8
+    },
+    {
+        "SectorName":"Thruster",
+        "Description":"Rumble, grumble, rumble, POW! They’re off!",
+        "Value":9
+    },
+    {
+        "SectorName":"Core",
+        "Description":"It’s not much of a game without a checkmate. Chess without it’s king, baseball without a final inning, not forgetting a loved one within the deep confines of a couch… ",
+        "Value":10
+    },
+    {
+        "SectorName":"Pole Position",
+        "Description":"Structural support gives way to the future, a cool cross between two beams. Without one each other they feel rather lost, but together, they are whole.",
+        "Value":11
+    },
+    {
+        "SectorName":"T.V. Antenna",
+        "Description":"While it may look a little goofy, they’re often used for communication between experiments. Just make sure you’re tuned in and you might catch something.",
+        "Value":12
+    },
+    {
+        "SectorName":"Star Wing",
+        "Description":"[MEMO]: I’m afraid I’ve lost my ships last wing, while I may not have much longer to live.  Tell my wife and kids farewell. The ship is currently on a downwards trajectory spiraling uncontrollably. I hope this parting memory does not go to waste, as I have discovered the-",
+        "Value":13
+    },
+    {
+        "SectorName":"Metal Support",
+        "Description":"Girders are a staple of a good time. A show of might and force. The wonders of engineering brought to you by a couple beams and a poor weld.",
+        "Value":14
+    },
+    {
+        "SectorName":"Captain's Seat",
+        "Description":"*CHHH* WHERE’S THE BRAKES *CHHH*",
+        "Value":15
+    },
+    {
+        "SectorName":"Junk Wad",
+        "Description":"It’s a wad of junk…",
+        "Value":16
+    },
+    {
         "SectorName":"ScrapBlock",
         "Description":"",
-        "Value":
+        "Value":17
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":18
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":19
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":20
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":21
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":22
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":23
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":24
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":25
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":26
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":27
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":28
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":29
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":30
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":31
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":32
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":33
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":34
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":35
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":36
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":37
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":38
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":39
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":40
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":41
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":42
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":43
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":44
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":45
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":46
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":47
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":48
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":49
+    },
+    {
+        "SectorName":"ScrapBlock",
+        "Description":"",
+        "Value":50
     }
 ]
