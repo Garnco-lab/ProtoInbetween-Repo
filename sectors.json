@@ -86,47 +86,47 @@
     },
     {
         "SectorName":"Cheese Grater",
-        "Description":"",
+        "Description":"Pressed through the center, your inedible waste turns into a fine, delicate spaghetti.",
         "Value":17
     },
     {
         "SectorName":"Propane",
-        "Description":"",
+        "Description":"A metal tank which burns superior charcoal within.",
         "Value":18
     },
     {
         "SectorName":"Arcade Machine",
-        "Description":"",
+        "Description":"As he scampered into the grassy knoll underneath a putrid perscotto tree, the small scrungoid asked diligently what this was, beeps and boops filled his head as a pixelated mosaic  reflected off of his multiple eye holes... The father nested deep within roots entangled and winding between the cracks of asphalt below began to rise. He let out a slow chuckle while nodding, “You’ll find out when you’re older”. ",
         "Value":19
     },
     {
         "SectorName":"Fizzy Cans",
-        "Description":"",
+        "Description":"Shaken, not stirred.",
         "Value":20
     },
     {
         "SectorName":"Bottle House",
-        "Description":"",
+        "Description":"If you’re going to drown your sorrows, at least remember to live within the walls of your own glass house. ",
         "Value":21
     },
     {
         "SectorName":"Toaster",
-        "Description":"",
+        "Description":"Freshly popped acrylamide.",
         "Value":22
     },
     {
         "SectorName":"Cosmic Glass",
-        "Description":"",
+        "Description":"Cheaply produced Glass which protects you from the outer reaches of the cosmos. [WARNING: Wear safety visors/life jacket when near COSMIC GLASS]   ",
         "Value":23
     },
     {
         "SectorName":"Septic Tank",
-        "Description":"",
+        "Description":"When you have to drop your digested lunch, there’s a place to store that. Keep the atmosphere clean and safe from septic pollution. Thank you.",
         "Value":24
     },
     {
         "SectorName":"Sploont",
-        "Description":"",
+        "Description":"A cheap knockoff version of an actual light gun.",
         "Value":25
     },
     {
@@ -315,8 +315,8 @@
         "Value":62
     },
     {
-        "SectorName":"Micro-Colony",
-        "Description":"",
+        "SectorName":"PetriDish",
+        "Description":"A city for germs, a micro-colony.",
         "Value":63
     },
     {
@@ -348,5 +348,15 @@
         "SectorName":"Hydroponics Station",
         "Description":"",
         "Value":69
+    },
+    {
+        "SectorName":"Hydroponics Station",
+        "Description":"",
+        "Value":70
+    },
+    {
+        "SectorName":"Pyramid Core",
+        "Description":"May your sorrows be plentiful",
+        "Value":71
     }
 ]
