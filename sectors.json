@@ -261,17 +261,17 @@
     },
     {
         "SectorName":"Canned Toilet Paper",
-        "Description":"",
+        "Description":"Instant refreshment",
         "Value":52
     },
     {
         "SectorName":"Tapioca",
-        "Description":"",
+        "Description":"Only for 100 and up.",
         "Value":53
     },
     {
         "SectorName":"Stuffed Toys",
-        "Description":"",
+        "Description":"Confiscated contraband from the damned.",
         "Value":54
     },
     {
@@ -298,6 +298,11 @@
         "SectorName":"Cloning Paper",
         "Description":"",
         "Value":59
+    },
+    {
+        "SectorName":"Porn Magazines",
+        "Description":"Jerkin it'",
+        "Value":54
     },
     {
         "SectorName":"KeyGen",
