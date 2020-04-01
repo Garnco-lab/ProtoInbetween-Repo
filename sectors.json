@@ -131,127 +131,127 @@
     },
     {
         "SectorName":"Bio-Tank",
-        "Description":"",
+        "Description":"I’ve discovered these strange microscopic creatures and blown them up to maximum visibility. I call them Microbes. While I have grown attached to these creatures, I no longer possess the means to call them my own. They have eaten my lab, wife, and kids.. I can only hope whoever lets them loose from this premium safety vessel will realize what reckoning will be upon us.",
         "Value":26
     },
     {
         "SectorName":"Diaper Station",
-        "Description":"",
+        "Description":"You are the father.",
         "Value":27
     },
     {
         "SectorName":"Toxic Waste",
-        "Description":"",
+        "Description":"Futuristic fondue.",
         "Value":28
     },
     {
         "SectorName":"Stolen Wing",
-        "Description":"",
+        "Description":"A neat collector’s item from a franchise long gone. Nostalgia fills your ear holes as you hear it blown to smithereens.  So long plastic junk, I’m sure you cost too much, yet gave joy for so little.",
         "Value":29
     },
     {
         "SectorName":"Slider Station",
-        "Description":"",
+        "Description":"Chungo’s Quad Frier deluxe is the proper way to premodulate your food before you fight. Coupons are now available for a free ship expansion. Mail Order Today.",
         "Value":30
     },
     {
         "SectorName":"Mega Disc",
-        "Description":"",
+        "Description":"Quality movies compressed on discs as large as your head. Capable of being a replacement for a ceiling fan or frisbee, they’ve caught on for anything but what they were intended for.",
         "Value":31
     },
     {
         "SectorName":"Incense Stick",
-        "Description":"",
+        "Description":"Experience the habitual scent of smoke while it alerts your local fire department.",
         "Value":32
     },
     {
         "SectorName":"Bad Antenna",
-        "Description":"",
+        "Description":"This is what the rich use to deflect the poor. ",
         "Value":33
     },
     {
         "SectorName":"Weather Vane",
-        "Description":"",
+        "Description":"Weather control was never a good idea…  I mean how are you supposed to enjoy a hot relaxing day when it flicks one way and becomes winter, turn it another it becomes a tundra. Playing god has never been this mildly uncomfortable.",
         "Value":34
     },
     {
         "SectorName":"Barber Pole",
-        "Description":"",
+        "Description":"Knock knock Knock KNOCK KNOCK… TWO BITS.",
         "Value":35
     },
     {
         "SectorName":"Swiss Cheese",
-        "Description":"",
+        "Description":"Aerodynamic Cheese.",
         "Value":36
     },
     {
         "SectorName":"Unholy Cross",
-        "Description":"",
+        "Description":"Bow down to the one you serve.",
         "Value":37
     },
     {
         "SectorName":"Razor Blades",
-        "Description":"",
+        "Description":"Are you laughing now?",
         "Value":38
     },
     {
         "SectorName":"Time Machine",
-        "Description":"",
+        "Description":"I wish I could go back in time.",
         "Value":39
     },
     {
         "SectorName":"Cure-All",
-        "Description":"",
+        "Description":"This healing solution will fix the planet but not your soul.",
         "Value":40
     },
     {
         "SectorName":"Foosla",
-        "Description":"",
+        "Description":"Originally meant for information transfer, it’s now used to shoot cool lightning bolts towards anything in its way.",
         "Value":41
     },
     {
         "SectorName":"Totem Pole",
-        "Description":"",
+        "Description":"Rise my sons, your day of reckoning is soon…",
         "Value":42
     },
     {
         "SectorName":"Hive Mind",
-        "Description":"",
+        "Description":"Free eggs from an abandoned ship.",
         "Value":43
     },
     {
-        "SectorName":"Toxic Waste",
-        "Description":"",
+        "SectorName":"Oil Barrel",
+        "Description":"Liquid friends....",
         "Value":44
     },
     {
         "SectorName":"Ansible",
-        "Description":"",
+        "Description":"A hook used to contact other creatures that are ignoring you.",
         "Value":45
     },
     {
         "SectorName":"G-Meter",
-        "Description":"",
+        "Description":"Thetans be damned.",
         "Value":46
     },
     {
         "SectorName":"Tractor Beam",
-        "Description":"",
+        "Description":"Lay off your main thrusters.",
         "Value":47
     },
     {
-        "SectorName":"Pest Master",
-        "Description":"",
+        "SectorName":"Bugger Bomb",
+        "Description":"Fetus Deletus",
         "Value":48
     },
     {
         "SectorName":"Fake Stars",
-        "Description":"",
+        "Description":"Glow in the dark!",
         "Value":49
     },
     {
         "SectorName":"Space Vacuum",
-        "Description":"",
+        "Description":"Born to suck.",
         "Value":50
     },
     {
@@ -300,7 +300,7 @@
         "Value":59
     },
     {
-        "SectorName":"Super Pop",
+        "SectorName":"KeyGen",
         "Description":"",
         "Value":60
     },
@@ -320,43 +320,53 @@
         "Value":63
     },
     {
-        "SectorName":"Escape Pod",
-        "Description":"",
+        "SectorName":"PopCorn Maker",
+        "Description":"Ruined plants.",
         "Value":64
+    },
+    {
+        "SectorName":"Escape Pod",
+        "Description":"No intelligent life detected.",
+        "Value":65
     },
     {
         "SectorName":"Misplaced Keys",
         "Description":"",
-        "Value":65
-    },
-    {
-        "SectorName":"Ice Maker",
-        "Description":"",
         "Value":66
     },
     {
-        "SectorName":"Asteroid Chunks",
-        "Description":"",
+        "SectorName":"Cryo-Freezer",
+        "Description":"An expensive ice cube maker.",
         "Value":67
     },
     {
-        "SectorName":"Future Gum",
-        "Description":"",
+        "SectorName":"Reflector",
+        "Description":"Crash and burn.",
         "Value":68
     },
     {
-        "SectorName":"Hydroponics Station",
-        "Description":"",
+        "SectorName":"Asteroid",
+        "Description":"Make a wish honey.",
         "Value":69
     },
     {
-        "SectorName":"Hydroponics Station",
-        "Description":"",
+        "SectorName":"Future Gum",
+        "Description":"Chooble Pop",
         "Value":70
+    },
+    {
+        "SectorName":"Time Machine",
+        "Description":"Back and forth.",
+        "Value":71
+    },
+    {
+        "SectorName":"Hydroponics Station",
+        "Description":"Ruined plants.",
+        "Value":72
     },
     {
         "SectorName":"Pyramid Core",
         "Description":"May your sorrows be plentiful",
-        "Value":71
+        "Value":73
     }
 ]
